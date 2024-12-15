@@ -18,6 +18,7 @@ func main() {
 	defer fmt.Println("counting")
 
 	/*
+		innner function
 		counting
 		9
 		8
